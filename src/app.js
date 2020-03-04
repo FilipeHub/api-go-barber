@@ -1,3 +1,7 @@
+/**
+ * Represents the structure of the aplication
+ */
+
 const express = require('express');
 const routes = require('./routes');
 
