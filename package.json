@@ -8,7 +8,7 @@
     "dev:debug" : "nodemon --inspect src/server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sucrase": "^3.12.1",
     "yarn": "^1.22.0"
   },
